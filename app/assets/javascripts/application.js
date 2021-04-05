@@ -1,0 +1,12 @@
+//= require rails-ujs
+//= require activestorage
+//= require turbolinks
+//= require_tree .
+//= require bootstrap
+//= require bootstrap-sprockets
+//= require jquery
+//= require jquery3
+//= require owl.carousel
+//= require angular
+//= require angular-rails-templates
+//= require appTripbricks

@@ -1,0 +1,15 @@
+current directory: /home/adnan/Desktop/ruby-naitei-2019-hotel-booking/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/share/rvm/rubies/ruby-2.5.7/bin/ruby -I /usr/share/rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210406-25638-1krd3v7.rb extconf.rb
+creating Makefile
+
+current directory: /home/adnan/Desktop/ruby-naitei-2019-hotel-booking/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/adnan/Desktop/ruby-naitei-2019-hotel-booking/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/adnan/Desktop/ruby-naitei-2019-hotel-booking/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20210406-25638-kn1ap4/skiptrace/internal
